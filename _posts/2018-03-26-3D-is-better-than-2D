@@ -1,0 +1,12 @@
+---
+title: 3D is better than 2D??
+layout: post
+author: joey.bennetts
+permalink: /3d-is-better-than-2d??/
+source-id: 1ijL_WaInRs9xbuzIJBQp3exYiuW7Bzsq54XdPnKxkoU
+published: true
+---
+Today we started making the shapes we had done previously 3D There was a really good way of doing this by making the first shape and then use the tools penup() and pendown() to do another layer making it look 3D and having an awesome affect. The hard thing was making sure the measurements were all correct and the same with the angles other wise the whole shape wouldn't look wright. I was faced a problem with mine that it would draw the shape atan angle and to the side a lot, I used the same code like right() and forward() but I also used penup() and pendown() so you couldn't see it. Here is a link to my code to see what i did.
+
+[My_Repl.it](https://repl.it/@joeybennetts/OffensiveJitteryParameter)
+
